@@ -1,0 +1,82 @@
+/*
+    Name: Aden Hirdes
+    Date: 12/10/2023
+    Student Number: 8829990
+*/
+
+body {
+    width: 75%;
+    max-width: 75%;
+    margin: 0% auto;
+    padding: 1%
+}
+
+header, footer {
+    border: 5px solid #696969;
+    border-radius: 5px;
+    padding: 0% 25%;
+    margin: 5% auto;
+    clear: both;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-variant: small-caps;
+    font-size: 35px;
+}
+
+h2 {
+    color: red;
+    font-variant: small-caps;
+}
+
+footer p {
+    color: darkgray;
+    font-size: 15px;
+}
+
+main {
+    float: left;
+    width: 60%;
+    padding: 1%;
+    margin: 1%;
+}
+
+aside {
+    float: right;
+    width: 30%;
+    padding: 1%;
+    margin: 1%;
+}
+
+.mainimg {
+    border: 5px solid black;
+    height: 76%;
+    width: 100%;
+}
+
+figcaption {
+    font-style: bold;
+    font-variant: small-caps;
+}
+
+q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: large;
+}
+
+ul li {
+    list-style: none;
+    line-height: 30px;
+}
+
+li > a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
